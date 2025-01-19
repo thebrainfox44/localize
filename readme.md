@@ -7,6 +7,10 @@ list of supported languages [here](github.com)
 if you need another language, fell free to email me ```contact@thebrainfox.com```
 
 to translate your strings in languages not hard coded, you need to provide a vali google translate key. [here]() you can get one
+
+#IMPORTANT
+This code is almost 2 years old and might not work anymore (especially the live translation)
+
 # Setup
 to use the module, import it (documentation not completed)
 then import it in each file you need it this way:

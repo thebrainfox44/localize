@@ -8,7 +8,7 @@ if you need another language, fell free to email me ```contact@thebrainfox.com``
 
 to translate your strings in languages not hard coded, you need to provide a vali google translate key. [here]() you can get one
 
-#IMPORTANT
+# IMPORTANT
 This code is almost 2 years old and might not work anymore (especially the live translation)
 
 # Setup

@@ -30,5 +30,10 @@ local.set('es')
 // set the language to spanish ('es')
 
 local.translate("hello world", 'de')
-// translate the literal string "hello world" to deutch ('de') using google translate api
+// translate the literal string "hello world" to deutch ('de') using google translate api.
+
+console.log(local.localize("book-line-12", 'fr', true))
+// search for the string labelled "12" from the subfolder "line" in the folder "book" in the language specified ('fr')
+// If it exists, it wil simply return it.
+//If the string doesnt exists in this language but has a translation, it will automatically use the provided google translate api key to get the localized string.
 ```
